@@ -1,1 +1,0 @@
-# Multiple_Eye_Disease_Detection
